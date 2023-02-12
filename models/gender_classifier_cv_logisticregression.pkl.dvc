@@ -1,0 +1,4 @@
+outs:
+- md5: dbb670c619b87d0dca426b7db8ee92a6
+  size: 1947741
+  path: gender_classifier_cv_logisticregression.pkl
