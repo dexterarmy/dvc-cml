@@ -1,0 +1,4 @@
+outs:
+- md5: e8d724f9baed8c196671067c4bea1654
+  size: 4158426
+  path: gender_classifier_cv_multinomialnb.pkl
